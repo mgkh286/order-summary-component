@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [mgkh/frontendmentor](https://www.frontendmentor.io/solutions/responsive-site-using-css-and-bootsace4be54)
-- Live Site URL: [mgkh/github.io](https://mgkh.github.io/Order-Summary-Component-Solution/)
+- Live Site URL: [mgkh268/github.io](https://mgkh286.github.io/order-summary-component/)
 
 ## My process
 
