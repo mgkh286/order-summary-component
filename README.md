@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [mgkh/frontendmentor](https://www.frontendmentor.io/solutions/responsive-site-using-css-and-bootsace4be54)
+- Solution URL: [mgkh286/frontendmentor](https://www.frontendmentor.io/solutions/ordersummarycomponentsolution-w07UJAohU)
 - Live Site URL: [mgkh268/github.io](https://mgkh286.github.io/order-summary-component/)
 
 ## My process
